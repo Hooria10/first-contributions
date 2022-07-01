@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- Hooria (https://github.com/Hooria10)
 - [Prayag](https://github.com/Prayag-09)
 - [Eyal Bahar](https://github.com/Eyal-Bahar)
 - [Jay](https://github.com/jaghara)
